@@ -1,0 +1,16 @@
+current directory: /Users/benlebrun/Desktop/benlebrun.github.io/dark-poole-master/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/benlebrun/.rvm/rubies/ruby-2.7.0/bin/ruby -I /Users/benlebrun/.rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20200916-75208-85kgpk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/benlebrun/Desktop/benlebrun.github.io/dark-poole-master/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/benlebrun/Desktop/benlebrun.github.io/dark-poole-master/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/benlebrun/Desktop/benlebrun.github.io/dark-poole-master/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20200916-75208-m3mp4j
