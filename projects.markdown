@@ -8,8 +8,11 @@ permalink: /projects/
 
 ## Ongoing
 
+* ### LM Syntactic Complexity
+This project aims to explore how large transformer-based language models (e.g. GPT-2) capture the complexities of natural language.
+
 * ### Musical Power-Laws
-Many musical phenomena are said to follow a power-law, including the melodic intervals of Bach, Chopin, Debussy, Mendelssohn, Mozart, and Schoenberg, the harmonies and rhythms of classical music, and in melodies composed by Mozart, Chopin, Irving Berlin, and Jerome Kern. More recently, power-law behaviour has been observed in the global distributions of relative rhythmic and melodic bigram ranks. However, the statistical methods that were used to test this hypothesis have been shown to produce biased and sometimes incorrect results. As such, this project aims to re-test the power-law hypothesis using the method outlined by Clauset et al. (2009).
+Many musical phenomena are said to follow a power-law, including the melodic intervals of Bach, Chopin, Debussy, Mendelssohn, Mozart, and Schoenberg, the harmonies and rhythms of classical music, and in melodies composed by Mozart, Chopin, Irving Berlin, and Jerome Kern. More recently, power-law behaviour has been observed in the global distributions of relative rhythmic and melodic bigram ranks. However, the statistical methods that were used to test this hypothesis have been shown to produce biased and sometimes incorrect results. As such, this project aims to re-test the power-law hypothesis using the method outlined by [Clauset et al. (2009)](https://arxiv.org/abs/0706.1062).
 
 * ### The Mavening
 A recent wave of high-profile transformations at a variety of publications have indicated that the goal of corporate ownership is to dramatically reduce staff (by half in many cases) and cut costs. Critics of this process have suggested that such financial decision-making has had a significant impact on the quality of journalistic content. Using the tools of computational textual analysis, we aim to test this claim by examining stylistic and topical content before and after the identified moments of transformation. We have collected and are currently examining hundreds of thousands of articles with the goal of generalizing about the effects such transformations have on journalistic content.
