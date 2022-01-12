@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a third year undergraduate student double majoring in computer science and linguistics at McGill University. I work at [MCQLL](http://mcqll.org/), the Montreal Computational and Qualitative Linguistics Lab, where I study [Transformer-based language models](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)). My research focuses on understanding how these language models approximate the extremely complex distributions of natural languages. Previously, I was also a research assistant at [txtLab](https://txtlab.org/), a laboratory for cultural analytics, where I used computational models to study corporate acquisition in local news. You can find more information about these projects [here](https://benlebrun.github.io/projects/).
+I am currently an intern at [Mila](https://mila.quebec/), supervised by Timothy O'Donnell. I recently graduated from McGill, where I majored in computer science and linguistics. During that time, I worked at [MCQLL](http://mcqll.org/), the Montreal Computational and Qualitative Linguistics Lab, where I studied [Transformer-based language models](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)). I was also a research assistant at [txtLab](https://txtlab.org/), a laboratory for cultural analytics, where I used computational models to study corporate acquisition in local news. You can find more information about these projects [here](https://benlebrun.github.io/projects/).
 
 
 
